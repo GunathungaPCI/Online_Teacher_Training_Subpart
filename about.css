@@ -1,0 +1,119 @@
+.content2 {
+    display: flex;
+    height: 76vh;
+}
+
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+
+
+.box1{
+    bottom:30;
+    top:10;
+    margin-bottom: 2%;
+    margin-left: 3%;
+    background-image: url('AboutImages/bg8.jpg');
+    background-size: cover;
+
+    padding-bottom: 0.5%;
+    width:60%;
+    height:70vh;
+    margin-right: 6%;
+    border-radius:10px;
+
+}
+
+
+.leftside{
+    margin-top:5% ;
+    width: 12;
+    border-radius: 20%;
+    
+}
+
+.form-tools{
+    margin-left: 4%;
+    margin-bottom: 0;
+
+}
+
+.about{
+    margin-left: 30% ;
+    margin-bottom: 0;
+    margin-top: 5%;
+    font-size: xx-large;
+    color:rgb(217, 81, 32);
+   background-color:rgb(222, 209, 209);
+}
+
+.rightside{
+    
+    margin-left: 5%;
+    width: 40%;
+  
+ 
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.socialmedia {
+   
+    flex-direction: column;
+    margin-left: 4%;
+    margin-right: 4%;
+    
+}
+
+
+
+.social {
+
+    font-weight: bolder;
+    color: azure;
+}
+
+
+
+
+.socialmedia-in {
+    display: flex;
+}
+
+.socialmedia-in-img {
+    margin-top: 10%;
+    height: 50px;
+    width: 50px;
+    padding: 5%;
+}
+
+.imagesbox{
+    flex-direction: column;
+   margin-top: 20%;
+    margin-right: 30%;
+
+}
+
+.images{
+    display: flex;
+}
+
+.new-in-img{
+    height: 200px;
+    width: 200px;
+    
+    margin: 0 2px;
+}
+
+.para{
+    font-size: large;
+    margin-top: 6%;
+    margin-bottom:2%;
+    color:black;
+}
